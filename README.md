@@ -17,16 +17,16 @@ Also, the printed informaton in console is in Spanish (but the docstrings inside
 
  * Just do
 
- ```
- make
- ```
- and it should compile into a `popsinstaller` executable (can be modified inside Makefile).
+   ```
+   make
+   ```
+   and it should compile into a `popsinstaller` executable (can be modified inside Makefile).
 
  * Also, if running different Python version, make sure to edit that on the Makefile.
 
 ### Compilation is not necessary!
 
-You can run the `popstarter.py` directly, if you have Python and al dependencies satisfied. (Again, recommended to use a virtualenv).
+You can run the `popsinstaller.py` directly, if you have Python and al dependencies satisfied. (Again, recommended to use a virtualenv).
 
 The compiled version should, however, run without Python dependencies (in theory at least, have not tested, sorry for that).
 
